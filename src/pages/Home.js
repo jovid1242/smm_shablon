@@ -5,16 +5,16 @@ import logo from "../assets/img/logo.png";
 export default function Home() {
   return (
     <div>
-      <div class="smm">
-        <div class="smm__container">
-          <div class="header">
-            <div class="logo">
+      <div className="smm">
+        <div className="smm__container">
+          <div className="header">
+            <div className="logo">
               <img src={logo} alt="logo" />
               <a href="https://www.instagram.com/navrvzshoh/">@navrvzshoh</a>
             </div>
           </div>
-          <div class="banner">
-            <div class="banner__wrapper">
+          <div className="banner">
+            <div className="banner__wrapper">
               <h4>Курс SMM</h4>
               <h2>
                 Для владельцев бизнеса <br /> и для начинающих
@@ -25,32 +25,32 @@ export default function Home() {
                 Научитесь настраивать рекламу, привлекать новых клиентов и
                 повысить прибыль своего проекта.
               </p>
-              <div class="btn">
+              <div className="btn">
                 <a href="">Вводный урок</a>
               </div>
             </div>
           </div>
-          <div class="action">
-            <div class="card">
+          <div className="action">
+            <div className="card">
               <h4>
                 Скидка до <br />
                 конца месяца
               </h4>
             </div>
-            <div class="card">
+            <div className="card">
               <h4>
                 {" "}
                 Можно пройти <br />
                 за одну неделю
               </h4>
             </div>
-            <div class="card">
+            <div className="card">
               <h4>
                 Индивидуальный <br />
                 куратор{" "}
               </h4>
             </div>
-            <div class="card">
+            <div className="card">
               <h4>
                 {" "}
                 Меньше теории
