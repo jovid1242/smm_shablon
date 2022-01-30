@@ -25,8 +25,13 @@ export default function Home() {
                 Научитесь настраивать рекламу, привлекать новых клиентов и
                 повысить прибыль своего проекта.
               </p>
-              <div className="btn">
-                <a href="">Вводный урок</a>
+              <div className="btns">
+                <div className="btn">
+                  <a href="#">Вводный урок</a>
+                </div>
+                <div className="btn">
+                  <a href="https://www.instagram.com/navrvzshoh/">Приобрести</a>
+                </div>
               </div>
             </div>
           </div>
