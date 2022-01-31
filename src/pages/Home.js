@@ -10,7 +10,9 @@ export default function Home() {
           <div className="header">
             <div className="logo">
               <img src={logo} alt="logo" />
-              <a href="https://www.instagram.com/navrvzshoh/">@navrvzshoh</a>
+              <a href="https://www.instagram.com/navrvzshoh/" target="_blank">
+                @navrvzshoh
+              </a>
             </div>
           </div>
           <div className="banner">
@@ -27,10 +29,17 @@ export default function Home() {
               </p>
               <div className="btns">
                 <div className="btn">
-                  <a href="https://youtu.be/BLfmCA7UQEc">Вводный урок</a>
+                  <a href="https://youtu.be/BLfmCA7UQEc" target="_blank">
+                    Вводный урок
+                  </a>
                 </div>
                 <div className="btn">
-                  <a href="https://www.instagram.com/navrvzshoh/">Приобрести</a>
+                  <a
+                    href="https://www.instagram.com/navrvzshoh/"
+                    target="_blank"
+                  >
+                    Приобрести
+                  </a>
                 </div>
               </div>
             </div>
