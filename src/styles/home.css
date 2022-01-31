@@ -290,10 +290,10 @@ a {
   .banner::before {
     position: absolute;
     content: "";
-    width: 100%;
+    width: 45%;
     height: 200px;
     top: 195px;
-    left: 6px;
+    left: 200px;
     background: url(../assets/img/отото.png);
     background-repeat: no-repeat;
     background-position: right;

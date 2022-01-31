@@ -90,7 +90,7 @@ export default function Home() {
                   </div>
                   <p>• Что такое SMM</p>
                   <p>• Кто такой SMM специалист</p>
-                  <p>• Какие бизнес-задачи решается с помощью SMM</p>
+                  <p>• Какие бизнес-задачи решаются с помощью SMM</p>
                 </li>
                 <li>
                   <div className="title">
@@ -138,7 +138,7 @@ export default function Home() {
                   </div>
                   <p>• Книги по маркетингу </p>
                   <p>• Гайды </p>
-                  <p>• Чек листы и полезные приложения </p>
+                  <p>• Чек-листы и полезные приложения</p>
                 </li>
                 <li>
                   <div className="title">
