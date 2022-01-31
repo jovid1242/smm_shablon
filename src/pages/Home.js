@@ -27,7 +27,7 @@ export default function Home() {
               </p>
               <div className="btns">
                 <div className="btn">
-                  <a href="#">Вводный урок</a>
+                  <a href="https://youtu.be/BLfmCA7UQEc">Вводный урок</a>
                 </div>
                 <div className="btn">
                   <a href="https://www.instagram.com/navrvzshoh/">Приобрести</a>
